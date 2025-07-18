@@ -6,13 +6,13 @@ Uma landing page inspirada no visual do site oficial do Discord, desenvolvida ut
 
 ## 🖼️ Preview
 
-![Preview da Landing Page]()
+![Preview da Landing Page](assets/images/preview.png)
 
 ---
 
 ## 🌐 Acesse o Projeto
 
-Você pode ver o projeto online aqui: [🔗 ]()
+Você pode ver o projeto online aqui: [🔗 ]('https://matheusflima777.github.io/Clone_Landing_Page_Discord/')
 
 ---
 
@@ -32,7 +32,6 @@ Você pode ver o projeto online aqui: [🔗 ]()
 - CSS3
 - Flexbox e Grid Layout
 - Google Fonts
-- Font Awesome (opcional)
 
 ---
 

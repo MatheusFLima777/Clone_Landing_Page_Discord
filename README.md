@@ -12,7 +12,8 @@ Uma landing page inspirada no visual do site oficial do Discord, desenvolvida ut
 
 ## 🌐 Acesse o Projeto
 
-Você pode ver o projeto online aqui: [🔗 ]('https://matheusflima777.github.io/Clone_Landing_Page_Discord/')
+Você pode ver o projeto online aqui: [🔗 Acesse o projeto](https://matheusflima777.github.io/Clone_Landing_Page_Discord/)
+
 
 ---
 
